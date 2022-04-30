@@ -13,6 +13,19 @@ Kaggle is hosting this competition for the machine learning community to use for
 
 Bache, K. & Lichman, M. (2013). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science".
 
+# Setup
+
+If you want to run the code locally you can:
+
+1. Clone the repository
+```
+$ git clone https://github.com/guillermohopkins/Academic-Projects/tree/main/Cover_Type_Classification.git
+```
+2. Install the requirements
+```
+$ pip install -Uqqr requirements.txt
+```
+
 # Collaborators
 
 This project was developted thanks to the hard work of the team members of the Group B:
