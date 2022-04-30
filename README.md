@@ -19,7 +19,7 @@ If you want to run the code locally you can:
 
 1. Clone the repository
 ```
-$ git clone https://github.com/guillermohopkins/Academic-Projects/tree/main/Cover_Type_Classification.git
+$ git clone https://github.com/guillermohopkins/Cover-Type-Classification.git
 ```
 2. Install the requirements
 ```
