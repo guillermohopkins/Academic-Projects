@@ -1,4 +1,6 @@
-This project is based on the "Forest Cover Type Prediction" Kaggle Competition.
+# Forest Cover Type Prediction
+
+This project was part of a Group Assingment for the Machine Learning II class, and it was based on the "Forest Cover Type Prediction" Kaggle Competition.
 
 I want to reference the description of it:
 
@@ -11,8 +13,18 @@ Kaggle is hosting this competition for the machine learning community to use for
 
 Bache, K. & Lichman, M. (2013). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science".
 
-References:
+# Collaborators
+
+This project was developted thanks to the hard work of the team members of the Group B:
+- Guillermo Hopkins.
+- Adriana Del Conde.
+- Juan García.
+- Maria Andrea Caicedo.
+- Marguerite Belleau.
+- Daniel Ballester.
+
+# References
 
 - "Forest Cover Type Prediction". https://www.kaggle.com/competitions/forest-cover-type-prediction/
 - Bache, K. & Lichman, M. (2013). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science. http://archive.ics.uci.edu/ml/index.php
-- Dataset. https://archive.ics.uci.edu/ml/datasets/Covertype
+- "Cover Type". https://archive.ics.uci.edu/ml/datasets/Covertype
