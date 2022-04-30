@@ -41,3 +41,5 @@ This project was developted thanks to the hard work of the team members of the G
 - "Forest Cover Type Prediction". https://www.kaggle.com/competitions/forest-cover-type-prediction/
 - Bache, K. & Lichman, M. (2013). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science. http://archive.ics.uci.edu/ml/index.php
 - "Cover Type". https://archive.ics.uci.edu/ml/datasets/Covertype
+
+Comment: The test dataset was too heavy to be upload in GitHub, nonetheless is available in the anexed bibliography.
