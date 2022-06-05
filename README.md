@@ -33,6 +33,7 @@ This project was developted thanks to the hard work of the team members of the G
 - Maria Andrea Caicedo.
 - Marguerite Belleau.
 - Daniel Ballester.
+- Raffaello Pellegrini.
 
 # References
 
